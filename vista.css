@@ -1,0 +1,37 @@
+#addText{
+    margin: 50px;
+    width: 90%;
+    height: 48px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 32px;
+    line-height: 150%;
+
+    border-color: #9cb9dd;
+    border-style: double;
+    border-radius: 50px;
+    text-align: center;
+}
+.response{
+    align-items: center;
+    background-color: #fff;
+    border-radius: 32px;
+    box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+    display: flex;
+    height: 800px;
+    justify-content: center;
+    margin: 1rem;
+    padding: 20px;
+    text-align: center;
+    width: 400px;
+}
+#all{
+    background-color: #AAB2D5;
+}
+.textoEncriptado{
+    display: none;
+}
+.image{
+    display: initial;
+}
